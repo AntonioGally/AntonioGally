@@ -3,7 +3,7 @@
  
 ## I'm Antônio Gally
 ### here some informations about me: 
-<p align="center">![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonioGally&show_icons=true&theme=radical&include_all_commits=true)</p>
+![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonioGally&show_icons=true&theme=radical&include_all_commits=true)
 
  
 ## About me 
