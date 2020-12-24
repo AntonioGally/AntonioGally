@@ -3,8 +3,14 @@
  
 ## I'm Antônio Gally
 ### here some informations about me: 
-![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonioGally&show_icons=true&theme=radical&include_all_commits=true)
-
+<center>
+<table>
+  <tr>
+    <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=AntonioGally&theme=vue&show_icons=true&icon_color=03ADDF&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /></td>
+      <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioGally&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /></td>
+  </tr>   
+</table>
+</center>
  
 ## About me 
 
