@@ -3,15 +3,13 @@
  
 ## I'm Antônio Gally
 ### here some informations about me: 
-<center>
-<table>
-  <tr>
-    <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=AntonioGally&theme=vue&show_icons=true&icon_color=03ADDF&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /></td>
-      <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioGally&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /></td>
-  </tr>   
-</table>
-</center>
- 
+<p align="center" >
+<img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=AntonioGally&theme=vue&show_icons=true&icon_color=03ADDF&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /> 
+</p><br/>
+<p align="center">
+<img width="470px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioGally&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /> 
+</p>
+
 ## About me 
 
 #### I am a computer technician, and i will start study computer science in 2021. I am 18 years old and I completed a course work called "Quem Vai". I love JS and TS and I am working on two major projects with these languages.
